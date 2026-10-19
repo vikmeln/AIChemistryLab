@@ -1,0 +1,13 @@
+﻿molecule_name,formula,smiles,predicted_property,predicted_value
+Етанол,C2H6O,CCO,Water solubility (logS),-1.0892
+Оцтова кислота,C2H4O2,CC(=O)O,Water solubility (logS),-0.3915
+Бензен,C6H6,c1ccccc1,Water solubility (logS),-1.7974
+Ацетон,C3H6O,CC(C)=O,Water solubility (logS),-0.7597
+Метанол,CH4O,CO,Water solubility (logS),-0.8083
+Пропанол,C3H8O,CCCO,Water solubility (logS),-1.0754
+Фенол,C6H6O,Oc1ccccc1,Water solubility (logS),-1.4194
+Толуен,C7H8,Cc1ccccc1,Water solubility (logS),-1.9375
+Етилацетат,C4H8O2,CCOC(C)=O,Water solubility (logS),-0.8562
+Гліцерин,C3H8O3,OCC(O)CO,Water solubility (logS),-0.1269
+Піридин,C5H5N,c1ccncc1,Water solubility (logS),-0.1731
+Циклогексан,C6H12,C1CCCCC1,Water solubility (logS),-4.1498
